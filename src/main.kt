@@ -1,5 +1,3 @@
-import java.util.*;
-
 fun main(args: Array<String>) {
 
     printStuff(sum(1, 2).toString())
@@ -8,9 +6,9 @@ fun main(args: Array<String>) {
 
     val a = 2
     printStuff(a.toString())
-/*
-array
- */
+    /*
+    array
+     */
     val items = listOf(1, 2, 3, 4)
     /*
     for each loop
