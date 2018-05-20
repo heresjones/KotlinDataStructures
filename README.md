@@ -51,4 +51,4 @@ Interview Q&A's that require data structures should utilize the native Kotlin li
 
 # License
 
-This project is licensed under the terms of the MIT license. Each file does not need to contain an MIT license.
+This project is licensed under the terms of the MIT license.
