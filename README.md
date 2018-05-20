@@ -1,6 +1,3 @@
-<!-- the line below needs to be an empty line C: (its because kramdown isnt
-     that smart and dearly wants an empty line before a heading to be able to
-     display it as such, e.g. website) -->
 
 # Data Structures in Kotlin
 
@@ -51,4 +48,4 @@ Interview Q&A's that require data structures should utilize the native Kotlin li
 
 # License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. Each file does not need to contain an MIT license.
